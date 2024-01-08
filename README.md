@@ -16,6 +16,7 @@ Documentation is at http://mango.jfaster.org/
 Requires JDK 1.8 or higher.
 
 Latest release
+ghghg
 --------------
 
 The most recent release is Mango 2.0.1, released Jul 14, 2020.
